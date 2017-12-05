@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CatchUp</string>
+    <string name="title_home">Home</string>
+    <string name="title_sources">Sources</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_source_articles">Source Articles</string>
+    <string name="title_activity_about_source">About Source</string>
+    <string name="title_activity_about_article">About Article</string>
+</resources>
